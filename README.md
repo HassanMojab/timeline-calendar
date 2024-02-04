@@ -2,7 +2,7 @@
 
 A calendar view for timelines based on [MUI date picker](https://mui.com/x/react-date-pickers/date-picker/).
 
-[**Demo**](https://hassanmojab.github.io/timeline-calendar/)
+[**Demo**](https://mojabyte.github.io/timeline-calendar/)
 
 ## Storybook
 
